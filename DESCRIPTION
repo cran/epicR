@@ -1,6 +1,6 @@
 Package: epicR
 Title: Evaluation Platform in Chronic Obstructive Pulmonary Disease
-Version: 0.9.0
+Version: 1.0.0
 Authors@R: c(
     person("Mohsen", "Sadatsafavi", email = "mohsen.sadatsafavi@ubc.ca", role = c("aut", "cph")),
     person("Amin", "Adibi", email = "adibi@alumni.ubc.ca", role = c("aut", "cre")),
@@ -13,7 +13,7 @@ Description: Evaluation Platform in Chronic Obstructive Pulmonary Disease (EPIC)
 Depends: R (>= 4.1.0)
 License: GPL-3
 Encoding: UTF-8
-Imports: Rcpp (>= 1.0.8), graphics, stats, tools, ggplot2 (>= 3.3.6),
+Imports: Rcpp (>= 1.0.0), graphics, stats, tools, ggplot2 (>= 4.0.0),
         ggthemes, sqldf, jsonlite, readr, reshape2, scales, tidyr,
         tibble, dplyr
 LinkingTo: Rcpp, RcppArmadillo
@@ -24,6 +24,6 @@ Config/testthat/edition: 3
 Config/build/no-staged-install: TRUE
 VignetteBuilder: knitr, rmarkdown
 NeedsCompilation: yes
-Packaged: 2026-03-03 18:26:16 UTC; amin
+Packaged: 2026-03-10 00:01:32 UTC; amin
 Repository: CRAN
-Date/Publication: 2026-03-08 10:00:02 UTC
+Date/Publication: 2026-03-10 09:40:33 UTC
