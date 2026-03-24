@@ -1,4 +1,4 @@
-a7246775e85d41c8753687f9ad40a0bb *DESCRIPTION
+0d10a7af65056294a07ed815b92fde11 *DESCRIPTION
 ab3be3d160c26e93901c37fe5a546b3d *NAMESPACE
 155d0650210596776684c185ecc4b3ff *NEWS.md
 fa6320d1d70c59fe7e28a2f0af9957cd *R/RcppExports.R
@@ -16,7 +16,7 @@ fa36c380c5abaa0b207796d62149b2d4 *R/report.R
 a3b94469f0ce8d579625e8460fde3d54 *R/sysdata.rda
 b1c667d4fc5a88b5231b2b2a8d0c76b5 *R/validation.R
 c8de166ad59d01ef8d4c8ab7bc12dcd7 *README.md
-314b0e5154582243b8009c333df3b6be *build/vignette.rds
+e24293f2cf77028f861e2e375d6a345e *build/vignette.rds
 ab0cbd4c3545cfca2774819be37e92bc *inst/USCensus.csv
 24f464e67d3d8cc60490bb0effc6421a *inst/USSmoking2018.csv
 4b8d3846d4463ad32f340cdbd9c462ad *inst/assets/vignette-scripts.js
@@ -34,7 +34,7 @@ ab0cbd4c3545cfca2774819be37e92bc *inst/USCensus.csv
 4a261013bc94c76b1c37df2a71499afd *inst/doc/GettingStarted.html
 7bef65cccb9d3d00914da51cb1d293fc *inst/doc/InputsOutputsStructure.R
 69e4311cf47180db2a4c5c5448b3216e *inst/doc/InputsOutputsStructure.Rmd
-180d1732120c41dac6298c07cc2d923d *inst/doc/InputsOutputsStructure.html
+9cc9d79750c8644e14ead2ee9faa65c0 *inst/doc/InputsOutputsStructure.html
 e1bb21ce66ec44f629256ccdd1263111 *man/calc_event_stack_size.Rd
 18244092d338d8b3a24bed96d29ff6b8 *man/calibrate_COPD_inc.Rd
 60c545c2fa954309baf56f84c2e19780 *man/calibrate_explicit_mortality.Rd
@@ -102,9 +102,9 @@ f9b4604576fcc293d8a01c049f986cf9 *man/validate_treatment.Rd
 eaa3123969e261a11f1321cb5be4a234 *src/Makevars
 eaa3123969e261a11f1321cb5be4a234 *src/Makevars.win
 85dc0730c77ebf4d8d608735baa1b0ac *src/RcppExports.cpp
-fc00586fe545a47a15739e82cdd605d3 *src/epic_model.h
-3cae94cc2cae7888dda7f5841af7e62f *src/model.cpp
-d47fd3ad418b54d1b101e9df561020c3 *src/model_events.cpp
+ffc4060e4559db922460c57fa8b2712e *src/epic_model.h
+13c794e904f798873fa9abb387a73730 *src/model.cpp
+fe5f75ce5705d6f5ebff414544242e5c *src/model_events.cpp
 5b31d86df36a748b3919273e11f66f27 *src/model_globals.cpp
 9a36f0788f5765d7740ba9dcf4621cce *src/model_input.cpp
 554a0fb54df7d994dc830708d6ef4fb4 *src/model_output.cpp
